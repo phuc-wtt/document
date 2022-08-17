@@ -1,0 +1,10 @@
+remove IconTrendingUp
+
+IconBellFill:#fff
+IconChatSquareFill:#fff
+IconCreatePost:#fff
+IconHamburger:#fff
+IconNote:#222
+IconSetting:#222
+IconSmile:#9b9b9b
+IconUserNotLogIn:#fff
